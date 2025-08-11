@@ -1,4 +1,18 @@
+
 *.py linguist-language=Python
-*.html linguist-documentation
-*.iss linguist-documentation
+
+
+*.md linguist-documentation
 *.spec linguist-documentation
+*.tex linguist-documentation
+*.toc linguist-documentation
+*.html linguist-documentation
+
+
+build/** linguist-generated
+dist/** linguist-generated
+__pycache__/** linguist-generated
+*.pyc linguist-generated
+*.pkg linguist-generated
+*.zip linguist-generated
+*.exe linguist-generated

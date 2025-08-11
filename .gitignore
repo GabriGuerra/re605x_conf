@@ -1,0 +1,9 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+*.exe
+*.pkg
+*.toc
+*.zip
