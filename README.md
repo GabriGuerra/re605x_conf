@@ -64,3 +64,7 @@ Uso | Usage
 - Select your main network and enter the password.
 - Click "Configure".
 - The browser will open and automation will run.
+
+Nota pessoal | Personal note
+Este é um dos projetos que desenvolvi, quase sem perceber o tempo passar, aplicando meu conhecimento de forma prática. A motivação veio de uma necessidade da minha família, especialmente para minha mãe.
+This is one of the projects I developed smoothly, almost without noticing the time pass, applying my knowledge in a practical way. The motivation came from a need in my family, especially for my mother.
