@@ -65,8 +65,8 @@ Uso | Usage
 - Click "Configure".
 - The browser will open and automation will run.
 
-### Nota pessoal | Personal note
+Nota pessoal | Personal note
 
-Este é um dos projetos que desenvolvi quase sem perceber o tempo passar, são de grande valor porque testam meu conhecimento de forma prática. Neste, a motivação foi ajudar minha família, especialmente minha mãe.
+Este é um dos projetos que desenvolvi quase sem perceber o tempo passar. Têm grande valor para mim, pois confirmam meu aprendizado de forma prática. Nestes projetos, pude auxiliar minha família, especialmente minha mãe, tornando tudo possível.
 
-This is one of the projects I developed smoothly, almost without noticing the time pass, applying my knowledge in a practical way. In this case, the motivation came from a need in my family, especially for my mother.
+This is one of the projects I developed almost without noticing the time pass. They hold great value for me, as they put my learning into practice. In these projects, I was able to support my family, especially my mother, making it all possible.
