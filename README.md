@@ -65,7 +65,7 @@ Uso | Usage
 - Click "Configure".
 - The browser will open and automation will run.
 
-Nota pessoal | Personal note
+### Nota pessoal | Personal note
 
 Este é um dos projetos que desenvolvi quase sem perceber o tempo passar. Têm grande valor para mim, pois confirmam meu aprendizado de forma prática. Nestes projetos, pude auxiliar minha família, especialmente minha mãe, tornando tudo possível.
 
