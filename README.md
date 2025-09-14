@@ -67,6 +67,6 @@ Uso | Usage
 
 ### Nota pessoal | Personal note
 
-Este é um dos projetos que desenvolvi quase sem perceber o tempo passar. Têm grande valor para mim, pois confirmam meu aprendizado de forma prática. Neste projetos, pude auxiliar minha família, especialmente minha mãe, tornando tudo possível.
+Este é um dos projetos que desenvolvi quase sem perceber o tempo passar. Tem grande valor para mim, pois confirma meu aprendizado de forma prática. Neste projeto, pude auxiliar minha família, especialmente minha mãe, tornando tudo possível.
 
-This is one of the projects I developed almost without noticing the time pass. They hold great value for me, as they put my learning into practice. In this project, I was able to support my family, especially my mother, making it all possible.
+This is one of the projects I developed almost without noticing the time pass. It has great value for me, as it puts my learning into practice. In this project, I was able to support my family, especially my mother, making it all possible.
